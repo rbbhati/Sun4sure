@@ -1,0 +1,2 @@
+# Sun4sure
+# Sun4sure - Smart Solar Estimator PWA#  Sun4sure is a Progressive Web App that provides smart solar power estimation based on monthly usage or appliance-wise data. It features offline support via service workers, cost comparisons between solar and grid power, and is installable on desktop and mobile devices for easy access anytime. 
